@@ -8,3 +8,5 @@
 - Run following GNU stow command in dotfiles directory.
 
 `stow .`
+
+
